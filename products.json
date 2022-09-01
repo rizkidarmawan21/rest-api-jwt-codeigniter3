@@ -1,0 +1,151 @@
+{
+    "products" : [
+        {
+            "id_product" : 1,
+            "nama_product" : "Kloset Bagus",
+            "slug"         : "kloset-bagus",
+            "deskripsi"    : "loremshsdfshjskhvkh hsjkfhksdhfkj shdfjkhdfjkshdvkhfkhc  sdfjksdfh",
+            "spesifikasi"  : "ini data spesifikasi kloset",
+            "brand"        : "Ina",
+            "harga"        : 100000,
+            "berat"        : 13,
+            "lebar"        : 100,  
+            "tinggi"       : 100,
+            "stok"         : null,
+            "variasi"      : [
+                {
+                    "id_variasi" : 1,
+                    "model_variasi" : "Merah - 9034H093HHI",
+                    "harga" : 120000,
+                    "stok" : 10
+                },
+                {
+                    "id_variasi" : 2,
+                    "model_variasi" : "Putih - 9034YRTYFHI",
+                    "harga" : 180000,
+                    "stok" : 3
+                }
+            ],
+            "product_galery": [
+                "gambar.jpg",
+                "gambar2.jpg",
+                "gambar3.jpg"
+            ],
+            "store"      : [
+                {
+                    "id_store" : 1,
+                    "nama_toko" : "Borneo Beton",
+                    "kategori"  : "Material",
+                    "deskripsi" : "toko yang menjual macam-macam material",
+                    "lokasi"    : "Jogja Sleman",
+                    "distribusi" : [
+                            "Aceh",
+                            "Jogja",
+                            "Semarang"
+                    ],
+                    "banner" : "banner_toko.jpg",
+                    "logo" : "logo_toko.jpg",
+                    "join_at" : "2022-09-19"
+                }
+            ]
+        },
+        {
+            "id_product" : 2,
+            "nama_product" : "Kloset Bagus 2",
+            "slug"         : "kloset-bagus-2",
+            "deskripsi"    : "loremshsdfshjskhvkh hsjkfhksdhfkj shdfjkhdfjkshdvkhfkhc  sdfjksdfh",
+            "spesifikasi"  : "ini data spesifikasi kloset",
+            "brand"        : "Ina",
+            "harga"        : 100000,
+            "berat"        : 13,
+            "lebar"        : 100,  
+            "tinggi"       : 100,
+            "stok"         : null,
+            "variasi"      : [
+                {
+                    "id_variasi" : 1,
+                    "model_variasi" : "Merah - 9034H093HHI",
+                    "harga" : 120000,
+                    "stok" : 10
+                },
+                {
+                    "id_variasi" : 2,
+                    "model_variasi" : "Putih - 9034YRTYFHI",
+                    "harga" : 180000,
+                    "stok" : 3
+                }
+            ],
+            "product_galery": [
+                "gambar.jpg",
+                "gambar2.jpg",
+                "gambar3.jpg"
+            ],
+            "store"      : [
+                {
+                    "id_store" : 1,
+                    "nama_toko" : "Borneo Beton",
+                    "kategori"  : "Material",
+                    "deskripsi" : "toko yang menjual macam-macam material",
+                    "lokasi"    : "Jogja Sleman",
+                    "distribusi" : [
+                            "Aceh",
+                            "Jogja",
+                            "Semarang"
+                    ],
+                    "banner" : "banner_toko.jpg",
+                    "logo" : "logo_toko.jpg",
+                    "join_at" : "2022-09-19"
+                }
+            ]
+        },
+        {
+            "id_product" : 3,
+            "nama_product" : "Kloset Bagus 3",
+            "slug"         : "kloset-bagus-3",
+            "deskripsi"    : "loremshsdfshjskhvkh hsjkfhksdhfkj shdfjkhdfjkshdvkhfkhc  sdfjksdfh",
+            "spesifikasi"  : "ini data spesifikasi kloset",
+            "brand"        : "Ina",
+            "harga"        : 100000,
+            "berat"        : 13,
+            "lebar"        : 100,  
+            "tinggi"       : 100,
+            "stok"         : null,
+            "variasi"      : [
+                {
+                    "id_variasi" : 1,
+                    "model_variasi" : "Merah - 9034H093HHI",
+                    "harga" : 120000,
+                    "stok" : 10
+                },
+                {
+                    "id_variasi" : 2,
+                    "model_variasi" : "Putih - 9034YRTYFHI",
+                    "harga" : 180000,
+                    "stok" : 3
+                }
+            ],
+            "product_galery": [
+                "gambar.jpg",
+                "gambar2.jpg",
+                "gambar3.jpg"
+            ],
+            "store"      : [
+                {
+                    "id_store" : 2,
+                    "nama_toko" : "TB Berkah Jaya",
+                    "kategori"  : "Material",
+                    "deskripsi" : "toko yang menjual macam-macam material",
+                    "lokasi"    : "Jogja Sleman",
+                    "distribusi" : [
+                            "Aceh",
+                            "Jogja",
+                            "Semarang"
+                    ],
+                    "banner" : "banner_toko.jpg",
+                    "logo" : "logo_toko.jpg",
+                    "join_at" : "2022-09-19"
+                }
+            ]
+        }
+    ]
+}
